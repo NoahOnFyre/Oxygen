@@ -1,0 +1,4 @@
+name: Oxygen
+version: '${project.version}'
+main: net.onfyre.oxygen.Oxygen
+api-version: 1.19
